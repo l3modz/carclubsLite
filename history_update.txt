@@ -1,0 +1,32 @@
+#16.08.2020 | v.1.0
+- Edit login dengan menggunakan MD5, password di encript MD5
+
+#16.08.2020 | v.1.1
+- edit table tb_password
+- decrypt 1 password
+- can't read 2 rows
+
+#17.08.2020 | v.1.2
+- decrypt can all password rows
+
+#27.12.2025 | v.1.2
+- edit year footer
+- $titleWeb='Car Clubs';
+- $emailAdmin='yourEmailAdmin@gmail.com';
+- $titleWeb='Car Clubs'; header
+- can edit css #ff0 to real white, Red White Black
+- .content-wrapper not found
+- add include "../../dist/koneksi.php"; at master-password.php
+- InputData Porsenils
+- Dashboard Input Data Porsenil 
+- Warning: include(../../dist/koneksi.php): failed to open stream: No such file or directory in /var/www/html/carclubs/pages/master/master-password.php on line 26
+- Warning: include(): Failed opening '../../dist/koneksi.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/carclubs/pages/master/master-password.php on line 26
+- Notice: Undefined variable: secret_key in /var/www/html/carclubs/pages/master/master-password.php on line 27
+//hahengcat
+-- Notice: Undefined variable: secret_iv in /var/www/html/carclubs/pages/master/master-password.php on line 30
+-- Input Data Successful!
+
+-- NOT FOR SMU/SMK/D1/D2.
+- stagnand, i always just tired [27.12.2025|05.31 WIB]
+Notice: Trying to access array offset on value of type null in /var/www/html/carclubs/pages/master/form-master-password.php on line 140
+
