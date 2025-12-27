@@ -22,5 +22,5 @@ Start your Web Server on Android Tablet, set your port 8080, open your http://12
 
 Start your MariaDb Sql Server, open your http://127.0.0.1:8080/mysqladmin/ , select Databases, Create database carclubs, select Import, import sql file: carclubs.sql, tab/pres Import.<br />
 Open your website: http://127.0.0.1:8080/carclubs/ , login usin' admin:admin or staff:staff.<br />
-Enjoy your data porsenils car clubs encryptAES256 for Goodness, Calmness, Wiseness for Humankind.<br />
+Enjoy your data porsenils car clubs encrypted by encryptAES256 belong PHP for Goodness, Calmness, Wiseness for Humankind.<br />
 Wish me luck.
