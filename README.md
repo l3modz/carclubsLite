@@ -12,15 +12,15 @@ MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br />
 edited by hahengcat friend of whitecat ^_^ ^_^ ^_^
 
 # How to install:
-Tab/pres <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.
-Extract ZIP file at your Android Tablet.
+Tab/pres <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.<br />
+Extract ZIP file at your Android Tablet.<br />
 Install <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> on your Android Tablet, set Document Root: /sdcard/Download/htdocs.
-Copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs or your name cars/car clubs.
-Edit PHP file /sdcard/Download/htdocs/dist/koneksi.php, using <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor</a> Android, at line 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.
+Copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs or your name cars/car clubs.<br />
+Edit PHP file /sdcard/Download/htdocs/dist/koneksi.php, using <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor</a> Android, at line 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.<br />
 
-Start your Web Server on Android Tablet, set your port 8080, open your http://127.0.0.1:8080/carclubs/ on <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.
+Start your Web Server on Android Tablet, set your port 8080, open your http://127.0.0.1:8080/carclubs/ on <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.<br />
 
-Start your MariaDb Sql Server, open your http://127.0.0.1:8080/mysqladmin/ , select Databases, Create database carclubs, select Import, import sql file: carclubs.sql, tab/pres Import.
-Open your website: http://127.0.0.1:8080/carclubs/ , login usin' admin:admin or staff:staff
-Enjoy your data porsenils car clubs encryptAES256 for Goodness, Calmness, Wiseness for Humankind.
+Start your MariaDb Sql Server, open your http://127.0.0.1:8080/mysqladmin/ , select Databases, Create database carclubs, select Import, import sql file: carclubs.sql, tab/pres Import.<br />
+Open your website: http://127.0.0.1:8080/carclubs/ , login usin' admin:admin or staff:staff.<br />
+Enjoy your data porsenils car clubs encryptAES256 for Goodness, Calmness, Wiseness for Humankind.<br />
 Wish me luck.
