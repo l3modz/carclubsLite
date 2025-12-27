@@ -2,7 +2,7 @@
 $version = '1.2';
 
 	$Open = mysqli_connect("localhost","parlind-desktop","yourpasswordDB","carclubs");
-//$projectStackNan= $mysqli = new mysqli("localhost","root","","printgajilemodprintencrypted01");
+//$projectStackNan= $mysqli = new mysqli("localhost","root","","printbillgajilemodprintencrypted01");
 // Check connection
 if ($Open -> connect_errno) {
   echo "Failed to connect to MySQL: " . $mysqli -> connect_error;
@@ -17,4 +17,5 @@ if ($Open -> connect_errno) {
     $emailAdmin='yourEmailAdmin@gmail.com';
     //please_always_use_email.    
 ?>
+
 
