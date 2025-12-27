@@ -27,15 +27,16 @@ Enjoy your data porsenils car clubs encrypted by encryptAES256 belong PHP for Go
 Wish me luck.
 <br /><br />
 
-[id]Indonesian
-Tekan Tab/pres <> Kode, Unduh file ZIP.
+[id]Indonesian<br />
+Tekan Tab/pres <> Kode, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Unduh file ZIP</a>.
 
-Ekstrak file ZIP di Tablet Android Anda.
-Instal AWebServer Http Apache PHP Sql di Tablet Android Anda, atur Document Root: /sdcard/Download/htdocs. Salin/pindahkan file ZIP yang diekstrak di Tablet Android ke /sdcard/Download/htdocs, ganti nama folder menjadi carclubs atau nama Anda cars/car clubs.
+Ekstrak file ZIP di Tablet Android Anda.<br />
+Instal <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> di Tablet Android Anda, atur Document Root: /sdcard/Download/htdocs.<br />
+Salin/pindahkan  <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">file ZIP yang diekstrak</a> di Tablet Android ke /sdcard/Download/htdocs, ganti nama folder menjadi carclubs atau nama Anda cars/car clubs.
 
-Edit file PHP /sdcard/Download/htdocs/dist/koneksi.php, menggunakan Code Editor Android, pada baris 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.
+Edit file PHP /sdcard/Download/htdocs/dist/koneksi.php, gunakan <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor Android</a>, pada baris 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.
 
-Mulai Web Server Anda di Tablet Android, atur port Anda 8080, buka http://127.0.0.1:8080/carclubs/ di Firefox Android.
+Mulai Web Server Anda di Tablet Android, atur port Anda 8080, buka http://127.0.0.1:8080/carclubs/ di <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.
 
 Mulai MariaDB SQL Server Anda, buka http://127.0.0.1:8080/mysqladmin/, pilih Databases, Buat database carclubs, pilih Import, impor file sql: carclubs.sql, tab/tekan Import.<br />
 Buka situs web Anda: http://127.0.0.1:8080/carclubs/, masuk menggunakan admin:admin atau staff:staff.<br />
