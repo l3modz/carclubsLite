@@ -8,8 +8,8 @@ The standard PHP interpreter, powered by the Zend Engine, is free software relea
 # Requirement:
 Apache 2.0: API Version 20120211<br />
 PHP Version: 7.4.3-4ubuntu2.29<br />
-MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br />
-edited by hahengcat friend of whitecat ^_^ ^_^ ^_^
+MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br /><br />
+edited by hahengcat friend of whitecat  ^_^ ^_^ ^_^
 
 # How to install:
 Tab/pres <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.<br />
