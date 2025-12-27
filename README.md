@@ -25,3 +25,19 @@ Start your MariaDb Sql Server, open your http://127.0.0.1:8080/mysqladmin/ , sel
 Open your website: http://127.0.0.1:8080/carclubs/ , login usin' admin:admin or staff:staff.<br />
 Enjoy your data porsenils car clubs encrypted by encryptAES256 belong PHP for Goodness, Calmness, Wiseness for Humankind.<br />
 Wish me luck.
+<br /><br />
+
+[id]Indonesian
+Tekan Tab/pres <> Kode, Unduh file ZIP.
+
+Ekstrak file ZIP di Tablet Android Anda.
+Instal AWebServer Http Apache PHP Sql di Tablet Android Anda, atur Document Root: /sdcard/Download/htdocs. Salin/pindahkan file ZIP yang diekstrak di Tablet Android ke /sdcard/Download/htdocs, ganti nama folder menjadi carclubs atau nama Anda cars/car clubs.
+
+Edit file PHP /sdcard/Download/htdocs/dist/koneksi.php, menggunakan Code Editor Android, pada baris 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.
+
+Mulai Web Server Anda di Tablet Android, atur port Anda 8080, buka http://127.0.0.1:8080/carclubs/ di Firefox Android.
+
+Mulai MariaDB SQL Server Anda, buka http://127.0.0.1:8080/mysqladmin/, pilih Databases, Buat database carclubs, pilih Import, impor file sql: carclubs.sql, tab/tekan Import.
+Buka situs web Anda: http://127.0.0.1:8080/carclubs/, masuk menggunakan admin:admin atau staff:staff.
+Nikmati data Anda, porsenils car clubs yang dienkripsi oleh encryptAES256 milik PHP untuk Kebaikan, Ketenangan, Kebijaksanaan bagi Umat Manusia.
+Do'a kan saya/ane beruntung.
