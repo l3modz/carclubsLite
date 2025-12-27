@@ -15,4 +15,4 @@ MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br />
 click <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.
 extract ZIP file at your Android Tablet.
 install <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> on your Android Tablet, set Document Root: /sdcard/Download/htdocs.
-copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs.
+copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs or your name car clubs.
