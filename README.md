@@ -37,7 +37,7 @@ Edit file PHP /sdcard/Download/htdocs/dist/koneksi.php, menggunakan Code Editor 
 
 Mulai Web Server Anda di Tablet Android, atur port Anda 8080, buka http://127.0.0.1:8080/carclubs/ di Firefox Android.
 
-Mulai MariaDB SQL Server Anda, buka http://127.0.0.1:8080/mysqladmin/, pilih Databases, Buat database carclubs, pilih Import, impor file sql: carclubs.sql, tab/tekan Import.
-Buka situs web Anda: http://127.0.0.1:8080/carclubs/, masuk menggunakan admin:admin atau staff:staff.
-Nikmati data Anda, porsenils car clubs yang dienkripsi oleh encryptAES256 milik PHP untuk Kebaikan, Ketenangan, Kebijaksanaan bagi Umat Manusia.
+Mulai MariaDB SQL Server Anda, buka http://127.0.0.1:8080/mysqladmin/, pilih Databases, Buat database carclubs, pilih Import, impor file sql: carclubs.sql, tab/tekan Import.<br />
+Buka situs web Anda: http://127.0.0.1:8080/carclubs/, masuk menggunakan admin:admin atau staff:staff.<br />
+Nikmati data Anda, porsenils car clubs yang dienkripsi oleh encryptAES256 milik PHP untuk Kebaikan, Ketenangan, Kebijaksanaan bagi Umat Manusia.<br />
 Do'a kan saya/ane beruntung.
