@@ -9,15 +9,15 @@ The standard PHP interpreter, powered by the Zend Engine, is free software relea
 Apache 2.0: API Version 20120211<br />
 PHP Version: 7.4.3-4ubuntu2.29<br />
 MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br /><br />
-edited by hahengcat friend of whitecat  ^_^ ^_^ ^_^
+edited by hahengcat friend of whitecat  <div>^_^ ^_^ ^_^</div>
 
 # How to install:
 [en]English<br />
 Tab/pres <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.<br />
 Extract ZIP file at your Android Tablet.<br />
 Install <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> on your Android Tablet, set Document Root: /sdcard/Download/htdocs.
-Copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs or your name cars/car clubs.<br />
-Edit PHP file /sdcard/Download/htdocs/dist/koneksi.php, using <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor</a> Android, at line 4 parlind-desktop:your_mariaDB_user, to yourpasswordDB:your_mariaDB_password.<br />
+Copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubsLite or your name cars/car clubs.<br />
+Edit PHP file /sdcard/Download/htdocs/carclubsLite/dist/koneksi.php, using <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor</a> Android, at line 4 parlind-desktop:your_mariaDB_user, to yourpasswordDB:your_mariaDB_password.<br />
 
 Start your Web Server on Android Tablet, set your port 8080, open your http://127.0.0.1:8080/carclubs/ on <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.<br />
 
@@ -32,9 +32,9 @@ Tekan Tab/pres <> Kode, <a href="https://github.com/l3modz/carclubsLite/archive/
 
 Ekstrak file ZIP di Tablet Android Anda.<br />
 Instal <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> di Tablet Android Anda, atur Document Root: /sdcard/Download/htdocs.<br />
-Salin/pindahkan  <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">file ZIP yang diekstrak</a> di Tablet Android ke /sdcard/Download/htdocs, ganti nama folder menjadi carclubs atau nama Anda cars/car clubs.
+Salin/pindahkan  <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">file ZIP yang diekstrak</a> di Tablet Android ke /sdcard/Download/htdocs, ganti nama folder menjadi carclubsLite atau nama Anda cars/car clubs.
 
-Edit file PHP /sdcard/Download/htdocs/dist/koneksi.php, gunakan <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor Android</a>, pada baris 4 parlind-desktop:your_mariaDB_user, menjadi  yourpasswordDB:your_mariaDB_password.
+Edit file PHP /sdcard/Download/htdocs/carclubsLite/dist/koneksi.php, gunakan <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor Android</a>, pada baris 4 parlind-desktop:your_mariaDB_user, menjadi  yourpasswordDB:your_mariaDB_password.
 
 Mulai Web Server Anda di Tablet Android, atur port Anda 8080, buka http://127.0.0.1:8080/carclubs/ di <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.
 
