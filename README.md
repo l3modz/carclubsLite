@@ -18,6 +18,6 @@ Install <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache
 Copy/move <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">extracted ZIP file</a> on Android Tablet to /sdcard/Download/htdocs, rename folder to carclubs or your name cars/car clubs.
 Edit PHP file /sdcard/Download/htdocs/dist/koneksi.php, using <a href="https://play.google.com/store/apps/details/?id=com.rhmsoft.code" target="_blank">Code Editor</a> Android, at line 4 parlind-desktop:your_mariaDB_user, yourpasswordDB:your_mariaDB_password.
 
-Start your Web Server on Android Tablet, set your port 8080, open http://127.0.0.1:8080/carclubs/ on <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.
+Start your Web Server on Android Tablet, set your port 8080, open your http://127.0.0.1:8080/carclubs/ on <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.">Firefox Android</a>.
 
-Start your MariaDb Sql Server, open http://127.0.0.1:8080/mysqladmin/ , 
+Start your MariaDb Sql Server, open your http://127.0.0.1:8080/mysqladmin/ , select Databases, Create database carclubs, 
