@@ -12,6 +12,7 @@ MySQL: mysqli: mysqlnd 7.4.3-4ubuntu2.29 <br /><br />
 edited by hahengcat friend of whitecat  ^_^ ^_^ ^_^
 
 # How to install:
+[en]English
 Tab/pres <> Code, <a href="https://github.com/l3modz/carclubsLite/archive/refs/heads/master.zip" target="_blank">Download ZIP file</a>.<br />
 Extract ZIP file at your Android Tablet.<br />
 Install <a href="https://play.google.com/store/apps/details?id=com.sylkat.apache" target="_blank">AWebServer Http Apache PHP Sql</a> on your Android Tablet, set Document Root: /sdcard/Download/htdocs.
